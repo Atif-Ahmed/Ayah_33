@@ -1,0 +1,26 @@
+
+body{
+    overflow:hidden;
+	background-image: linear-gradient(to right, rgb(137, 238, 106), rgb(243, 218, 174));
+    margin: 2%;
+}
+.quran{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.quran div{
+    background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+}
+.container{
+    height: 90vh;
+    width: 100%; 
+}
+
+.page{   
+    width: 100%;
+}
